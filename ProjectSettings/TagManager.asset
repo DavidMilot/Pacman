@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ghost
+    uniqueID: 1339794069
+    locked: 0
+  - name: Pellet
+    uniqueID: 3845380185
+    locked: 0
+  - name: Wall
+    uniqueID: 1082153415
+    locked: 0
+  - name: Pacman
+    uniqueID: 2617037785
+    locked: 0
