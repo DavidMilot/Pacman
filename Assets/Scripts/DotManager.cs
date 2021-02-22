@@ -10,16 +10,22 @@ public class DotManager : MonoBehaviour
 
     [SerializeField] UnityEvent OnCompleteEvent;
 
-    [SerializeField] GameObject dot;
-    [SerializeField] GameObject powerUp;
-    [SerializeField] Transform cells;
+    [SerializeField] GameObject dot = null;
+    [SerializeField] GameObject powerUp = null;
+    [SerializeField] Transform cells = null;
+
+    [SerializeField] List<Transform> powerUpTransforms;
 
     GameObject[] _dots;
     GameObject[] _powerUps;
     Transform[] _cells;
 
     int _totalDots = 0;
-
+    int _currentDots = 0;
+    public int CurrentDots
+    {
+        get { return _currentDots; }
+    }
     void OnEnable()
     {/*
         for (int i = 0; i < _dots.Length; i++)
@@ -65,29 +71,54 @@ public class DotManager : MonoBehaviour
         InitDots();
     }
 
+    /// <summary>
+    /// Decrement from dot count and check if all dots are gone and if so, invoke OnComplete
+    /// </summary>
     void UpdateDotCount()
     {
-        _totalDots--;
+        _currentDots--;
 
-        if (_totalDots == 0)
+        if (_currentDots == 0)
             OnCompleteEvent.Invoke();
     }
 
+    /// <summary>
+    /// Initialize all dots and powerup dots in the level and count the total of all dots plus powerUp dots
+    /// </summary>
     void InitDots()
     {
+        //Instantiate all the dots and powerups, keep a counter
         for (int i = 0; i < _cells.Length; i++)
         {
-            _dots[i] = Instantiate(dot, _cells[i].position, Quaternion.identity);
-            _dots[i].transform.SetParent(this.transform);
-        }
-        _totalDots = _dots.Length;
-
-        
-        for (int i = 0; i < _dots.Length; i++)
-        {
-            if (_dots[i].GetComponent<Dot>() != null)
+            //We don't want to count the cell space with the State 'Start' whcih does not have a dot on that space
+            //That is used for the player
+            if (_cells[i].GetComponent<Obstacle>().GameObstacle == Obstacle.Block.Empty)
             {
-                _dots[i].GetComponent<Dot>().OnPickup += HandlePickup;
+                _dots[i] = Instantiate(dot, _cells[i].position, Quaternion.identity);
+                _dots[i].transform.SetParent(this.transform);
+                _totalDots++;
+            }
+            else if(_cells[i].GetComponent<Obstacle>().GameObstacle == Obstacle.Block.PowerUp)
+            {
+                _dots[i] = Instantiate(powerUp, _cells[i].position, Quaternion.identity);
+                _dots[i].transform.SetParent(this.transform);
+                _totalDots++;
+            }
+        }
+        _currentDots = _totalDots;
+
+        for (int i = 0; i <= _totalDots; i++)
+        {
+            if (_dots[i] != null)
+            {
+                if (_dots[i].GetComponent<Dot>() != null)
+                {
+                    _dots[i].GetComponent<Dot>().OnPickup += HandlePickup;
+                }
+                else if (_dots[i].GetComponent<PowerUp>() != null)
+                {
+                    _dots[i].GetComponent<PowerUp>().OnPickup += HandlePickup;
+                }
             }
         }
 
@@ -96,6 +127,22 @@ public class DotManager : MonoBehaviour
         {
             _powerUps[i].GetComponent<PowerUp>().OnPickup += HandlePickup;
         }*/
+    }
+
+    /// <summary>
+    /// Reset all dots in the level and the power up dots
+    /// </summary>
+    public void ResetAllDots()
+    {
+        _currentDots = _totalDots;
+
+        for (int i = 0; i <= _totalDots; i++)
+        {
+            if (_dots[i] != null)
+            {
+                _dots[i].SetActive(true);
+            }
+        }
     }
 
     /*

@@ -47,5 +47,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   dot: {fileID: 7174025396632087411, guid: cb0e349e6c3e3c94cb3385355f44ca43, type: 3}
-  powerUp: {fileID: 0}
+  powerUp: {fileID: 7174025396632087411, guid: 01de01790b74ae7498ecff2d266eb567, type: 3}
   cells: {fileID: 0}
+  powerUpTransforms:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

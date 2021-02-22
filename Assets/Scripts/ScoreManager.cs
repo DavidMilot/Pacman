@@ -34,4 +34,21 @@ public class ScoreManager : MonoBehaviour
     {
         _textScore.text = _totalPoints.ToString();
     }
+
+    public void ResetScore()
+    {
+        _totalPoints = 0;
+    }
+
+    public void ToggleScore()
+    {
+        if (_textScore.enabled)
+        {
+            _textScore.enabled = false;
+        }
+        else
+        {
+            _textScore.enabled = true;
+        }
+    }
 }

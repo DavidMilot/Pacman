@@ -22,17 +22,13 @@ public class Dot : MonoBehaviour, ICollectable
 
     }
 
+    /// <summary>
+    /// When player collects the dot, increment score, play munch sound and turn off game object
+    /// </summary>
     public void Collect()
     {
         ScoreManager.Instance.UpdatePoints(_points);
-        if (UnityEngine.Random.Range(0, 2) == 0)
-        {
-            AudioManager.Instance.PlaySound(AudioManager.AudioSoundEffects.Munch1, false);
-        }
-        else
-        {
-            AudioManager.Instance.PlaySound(AudioManager.AudioSoundEffects.Munch2, false);
-        }
+        AudioManager.Instance.PlayMunchSoundSFX();
         gameObject.SetActive(false);
     }
 }

@@ -217,7 +217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &3752971
 Rigidbody2D:
   serializedVersion: 4
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &12754102
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &17130656
 GameObject:
   m_ObjectHideFlags: 0
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &17130660
 Rigidbody2D:
   serializedVersion: 4
@@ -593,7 +593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &17274845
 Rigidbody2D:
   serializedVersion: 4
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &18079681
 Rigidbody2D:
   serializedVersion: 4
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &29357806
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,7 +925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &29357810
 Rigidbody2D:
   serializedVersion: 4
@@ -1016,7 +1016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &45148353
 GameObject:
   m_ObjectHideFlags: 0
@@ -1113,7 +1113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &45148357
 Rigidbody2D:
   serializedVersion: 4
@@ -1257,7 +1257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &45852470
 Rigidbody2D:
   serializedVersion: 4
@@ -1348,7 +1348,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &49292456
 GameObject:
   m_ObjectHideFlags: 0
@@ -1445,7 +1445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &49292460
 Rigidbody2D:
   serializedVersion: 4
@@ -1589,7 +1589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &49446674
 Rigidbody2D:
   serializedVersion: 4
@@ -1733,7 +1733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &58578551
 Rigidbody2D:
   serializedVersion: 4
@@ -1930,7 +1930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &66488938
 Rigidbody2D:
   serializedVersion: 4
@@ -2074,7 +2074,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &66592415
 Rigidbody2D:
   serializedVersion: 4
@@ -2165,7 +2165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &74990902
 GameObject:
   m_ObjectHideFlags: 0
@@ -2262,7 +2262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &74990906
 Rigidbody2D:
   serializedVersion: 4
@@ -2472,7 +2472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &83412662
 Rigidbody2D:
   serializedVersion: 4
@@ -2563,7 +2563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &96786011
 GameObject:
   m_ObjectHideFlags: 0
@@ -2660,7 +2660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &96786015
 Rigidbody2D:
   serializedVersion: 4
@@ -2751,7 +2751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &107174916
 GameObject:
   m_ObjectHideFlags: 0
@@ -2795,7 +2795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &114220320
 GameObject:
   m_ObjectHideFlags: 0
@@ -2892,7 +2892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &114220324
 Rigidbody2D:
   serializedVersion: 4
@@ -2940,49 +2940,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &115229757
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 115229759}
-  - component: {fileID: 115229758}
-  m_Layer: 0
-  m_Name: Grid Layout
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!156049354 &115229758
-Grid:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115229757}
-  m_Enabled: 1
-  m_CellSize: {x: 1, y: 1, z: 1}
-  m_CellGap: {x: 0, y: 0, z: 0}
-  m_CellLayout: 0
-  m_CellSwizzle: 0
---- !u!4 &115229759
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115229757}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &115663405
 GameObject:
   m_ObjectHideFlags: 0
@@ -3079,7 +3036,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &115663409
 Rigidbody2D:
   serializedVersion: 4
@@ -3170,7 +3127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &116275591
 GameObject:
   m_ObjectHideFlags: 0
@@ -3214,7 +3171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &120037386
 GameObject:
   m_ObjectHideFlags: 0
@@ -3311,7 +3268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &120037390
 Rigidbody2D:
   serializedVersion: 4
@@ -3402,7 +3359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &128933658
 GameObject:
   m_ObjectHideFlags: 0
@@ -3499,7 +3456,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &128933662
 Rigidbody2D:
   serializedVersion: 4
@@ -3558,6 +3515,8 @@ GameObject:
   - component: {fileID: 135534017}
   - component: {fileID: 135534018}
   - component: {fileID: 135534019}
+  - component: {fileID: 135534021}
+  - component: {fileID: 135534020}
   m_Layer: 0
   m_Name: House
   m_TagString: Untagged
@@ -3641,7 +3600,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 3
+  _gameObstacle: 3
+--- !u!61 &135534020
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135534016}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!50 &135534021
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135534016}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &138998392
 GameObject:
   m_ObjectHideFlags: 0
@@ -3653,7 +3659,7 @@ GameObject:
   - component: {fileID: 138998393}
   - component: {fileID: 138998395}
   m_Layer: 0
-  m_Name: Cell
+  m_Name: Cell_P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3685,7 +3691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 4
 --- !u!1 &144014202
 GameObject:
   m_ObjectHideFlags: 0
@@ -3729,7 +3735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &144199185
 GameObject:
   m_ObjectHideFlags: 0
@@ -3826,7 +3832,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &144199189
 Rigidbody2D:
   serializedVersion: 4
@@ -3970,7 +3976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &154145228
 Rigidbody2D:
   serializedVersion: 4
@@ -4114,7 +4120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &155705220
 Rigidbody2D:
   serializedVersion: 4
@@ -4258,7 +4264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &163155262
 Rigidbody2D:
   serializedVersion: 4
@@ -4349,7 +4355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &176038227
 GameObject:
   m_ObjectHideFlags: 0
@@ -4393,7 +4399,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &184373747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4490,7 +4496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &184373751
 Rigidbody2D:
   serializedVersion: 4
@@ -4634,7 +4640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &188109307
 Rigidbody2D:
   serializedVersion: 4
@@ -4778,7 +4784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &200806386
 Rigidbody2D:
   serializedVersion: 4
@@ -4922,7 +4928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &205492376
 Rigidbody2D:
   serializedVersion: 4
@@ -5066,7 +5072,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &210617282
 Rigidbody2D:
   serializedVersion: 4
@@ -5157,7 +5163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &222087625
 GameObject:
   m_ObjectHideFlags: 0
@@ -5254,7 +5260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &222087629
 Rigidbody2D:
   serializedVersion: 4
@@ -5345,7 +5351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &225357748
 GameObject:
   m_ObjectHideFlags: 0
@@ -5389,7 +5395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &230201228
 GameObject:
   m_ObjectHideFlags: 0
@@ -5486,7 +5492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &230201232
 Rigidbody2D:
   serializedVersion: 4
@@ -5577,7 +5583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &233944603
 GameObject:
   m_ObjectHideFlags: 0
@@ -5621,7 +5627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &240210350
 GameObject:
   m_ObjectHideFlags: 0
@@ -5718,7 +5724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &240210354
 Rigidbody2D:
   serializedVersion: 4
@@ -5862,7 +5868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &240802988
 Rigidbody2D:
   serializedVersion: 4
@@ -5953,7 +5959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &245952465
 GameObject:
   m_ObjectHideFlags: 0
@@ -5997,7 +6003,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &247749480
 GameObject:
   m_ObjectHideFlags: 0
@@ -6090,6 +6096,7 @@ RectTransform:
   m_Children:
   - {fileID: 681355357}
   - {fileID: 2075588232}
+  - {fileID: 1999096398}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6194,7 +6201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &253693037
 Rigidbody2D:
   serializedVersion: 4
@@ -6338,7 +6345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &255088272
 Rigidbody2D:
   serializedVersion: 4
@@ -6482,7 +6489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &255088782
 Rigidbody2D:
   serializedVersion: 4
@@ -6573,7 +6580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &273103076
 GameObject:
   m_ObjectHideFlags: 0
@@ -6617,7 +6624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &280439169
 GameObject:
   m_ObjectHideFlags: 0
@@ -6714,7 +6721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &280439173
 Rigidbody2D:
   serializedVersion: 4
@@ -6805,7 +6812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &294410422
 GameObject:
   m_ObjectHideFlags: 0
@@ -6849,7 +6856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &300771008
 GameObject:
   m_ObjectHideFlags: 0
@@ -6893,7 +6900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &303303930
 GameObject:
   m_ObjectHideFlags: 0
@@ -6990,7 +6997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &303303934
 Rigidbody2D:
   serializedVersion: 4
@@ -7081,7 +7088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &305639307
 GameObject:
   m_ObjectHideFlags: 0
@@ -7178,7 +7185,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &305639311
 Rigidbody2D:
   serializedVersion: 4
@@ -7269,7 +7276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &306692400
 GameObject:
   m_ObjectHideFlags: 0
@@ -7313,7 +7320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &309548083
 GameObject:
   m_ObjectHideFlags: 0
@@ -7357,7 +7364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &309573602
 GameObject:
   m_ObjectHideFlags: 0
@@ -7454,7 +7461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &309573606
 Rigidbody2D:
   serializedVersion: 4
@@ -7545,7 +7552,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &313733496
 GameObject:
   m_ObjectHideFlags: 0
@@ -7589,7 +7596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &316666047
 GameObject:
   m_ObjectHideFlags: 0
@@ -7633,7 +7640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &323335905
 GameObject:
   m_ObjectHideFlags: 0
@@ -7677,7 +7684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &324653192
 GameObject:
   m_ObjectHideFlags: 0
@@ -7774,7 +7781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &324653196
 Rigidbody2D:
   serializedVersion: 4
@@ -7918,7 +7925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &331162454
 Rigidbody2D:
   serializedVersion: 4
@@ -8062,7 +8069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &336392280
 Rigidbody2D:
   serializedVersion: 4
@@ -8153,7 +8160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &345731016
 GameObject:
   m_ObjectHideFlags: 0
@@ -8197,7 +8204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &350976942
 GameObject:
   m_ObjectHideFlags: 0
@@ -8294,7 +8301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &350976946
 Rigidbody2D:
   serializedVersion: 4
@@ -8385,7 +8392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &354583777
 GameObject:
   m_ObjectHideFlags: 0
@@ -8482,7 +8489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &354583781
 Rigidbody2D:
   serializedVersion: 4
@@ -8626,7 +8633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &354622845
 Rigidbody2D:
   serializedVersion: 4
@@ -8717,7 +8724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &358881844
 GameObject:
   m_ObjectHideFlags: 0
@@ -8814,7 +8821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &358881848
 Rigidbody2D:
   serializedVersion: 4
@@ -8905,7 +8912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &368759712
 GameObject:
   m_ObjectHideFlags: 0
@@ -9002,7 +9009,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &368759716
 Rigidbody2D:
   serializedVersion: 4
@@ -9146,7 +9153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &372729892
 Rigidbody2D:
   serializedVersion: 4
@@ -9290,7 +9297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &379613544
 Rigidbody2D:
   serializedVersion: 4
@@ -9434,7 +9441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &385160777
 Rigidbody2D:
   serializedVersion: 4
@@ -9578,7 +9585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &386190530
 Rigidbody2D:
   serializedVersion: 4
@@ -9722,7 +9729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &387065210
 Rigidbody2D:
   serializedVersion: 4
@@ -9813,7 +9820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &389838200
 GameObject:
   m_ObjectHideFlags: 0
@@ -9910,7 +9917,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &389838204
 Rigidbody2D:
   serializedVersion: 4
@@ -10054,7 +10061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &395007977
 Rigidbody2D:
   serializedVersion: 4
@@ -10198,7 +10205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &399521923
 Rigidbody2D:
   serializedVersion: 4
@@ -10289,7 +10296,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &405106888
 GameObject:
   m_ObjectHideFlags: 0
@@ -10387,7 +10394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!114 &405106892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10400,7 +10407,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &405106893
 Rigidbody2D:
   serializedVersion: 4
@@ -10491,7 +10498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &418030573
 GameObject:
   m_ObjectHideFlags: 0
@@ -10535,7 +10542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &420985948
 GameObject:
   m_ObjectHideFlags: 0
@@ -10632,7 +10639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &420985952
 Rigidbody2D:
   serializedVersion: 4
@@ -10776,7 +10783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &422623987
 Rigidbody2D:
   serializedVersion: 4
@@ -10867,7 +10874,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &433445687
 GameObject:
   m_ObjectHideFlags: 0
@@ -10964,7 +10971,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &433445691
 Rigidbody2D:
   serializedVersion: 4
@@ -11055,7 +11062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &439879743
 GameObject:
   m_ObjectHideFlags: 0
@@ -11152,7 +11159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &439879747
 Rigidbody2D:
   serializedVersion: 4
@@ -11243,7 +11250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &445248012
 GameObject:
   m_ObjectHideFlags: 0
@@ -11287,7 +11294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &449951852
 GameObject:
   m_ObjectHideFlags: 0
@@ -11384,7 +11391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &449951856
 Rigidbody2D:
   serializedVersion: 4
@@ -11475,7 +11482,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &453910286
 GameObject:
   m_ObjectHideFlags: 0
@@ -11519,7 +11526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &461425045
 GameObject:
   m_ObjectHideFlags: 0
@@ -11616,7 +11623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &461425049
 Rigidbody2D:
   serializedVersion: 4
@@ -11760,7 +11767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &472370555
 Rigidbody2D:
   serializedVersion: 4
@@ -11904,7 +11911,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &478743538
 Rigidbody2D:
   serializedVersion: 4
@@ -11995,7 +12002,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &486923133
 GameObject:
   m_ObjectHideFlags: 0
@@ -12039,7 +12046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &489286428
 GameObject:
   m_ObjectHideFlags: 0
@@ -12083,7 +12090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &489834793
 GameObject:
   m_ObjectHideFlags: 0
@@ -12180,7 +12187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &489834797
 Rigidbody2D:
   serializedVersion: 4
@@ -12271,7 +12278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &496152268
 GameObject:
   m_ObjectHideFlags: 0
@@ -12315,7 +12322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &503445426
 GameObject:
   m_ObjectHideFlags: 0
@@ -12359,7 +12366,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &518685756
 GameObject:
   m_ObjectHideFlags: 0
@@ -12456,7 +12463,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &518685760
 Rigidbody2D:
   serializedVersion: 4
@@ -12683,7 +12690,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &529419268
 Rigidbody2D:
   serializedVersion: 4
@@ -12827,7 +12834,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &530016975
 Rigidbody2D:
   serializedVersion: 4
@@ -12918,7 +12925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &539353234
 GameObject:
   m_ObjectHideFlags: 0
@@ -12962,7 +12969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &543260691
 GameObject:
   m_ObjectHideFlags: 0
@@ -13006,7 +13013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &544145077
 GameObject:
   m_ObjectHideFlags: 0
@@ -13050,7 +13057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &552775248
 GameObject:
   m_ObjectHideFlags: 0
@@ -13094,7 +13101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &558206179
 GameObject:
   m_ObjectHideFlags: 0
@@ -13191,7 +13198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &558206183
 Rigidbody2D:
   serializedVersion: 4
@@ -13282,7 +13289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &569021103
 GameObject:
   m_ObjectHideFlags: 0
@@ -13326,7 +13333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &570778966
 GameObject:
   m_ObjectHideFlags: 0
@@ -13423,7 +13430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &570778970
 Rigidbody2D:
   serializedVersion: 4
@@ -13567,7 +13574,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &583139019
 Rigidbody2D:
   serializedVersion: 4
@@ -13711,7 +13718,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &588494766
 Rigidbody2D:
   serializedVersion: 4
@@ -13770,6 +13777,8 @@ GameObject:
   - component: {fileID: 589620392}
   - component: {fileID: 589620393}
   - component: {fileID: 589620394}
+  - component: {fileID: 589620396}
+  - component: {fileID: 589620395}
   m_Layer: 0
   m_Name: House
   m_TagString: Untagged
@@ -13853,7 +13862,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 3
+  _gameObstacle: 3
+--- !u!61 &589620395
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 589620391}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!50 &589620396
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 589620391}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!4 &590202797 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4989305319250694181, guid: b912d611432a19f4c9e595b46cc16bf2,
@@ -13956,7 +14012,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &595769733
 Rigidbody2D:
   serializedVersion: 4
@@ -14100,7 +14156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &598395757
 Rigidbody2D:
   serializedVersion: 4
@@ -14244,7 +14300,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &610382733
 Rigidbody2D:
   serializedVersion: 4
@@ -14335,7 +14391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &616127671
 GameObject:
   m_ObjectHideFlags: 0
@@ -14432,7 +14488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &616127675
 Rigidbody2D:
   serializedVersion: 4
@@ -14523,7 +14579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &636937333
 GameObject:
   m_ObjectHideFlags: 0
@@ -14620,7 +14676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &636937337
 Rigidbody2D:
   serializedVersion: 4
@@ -14711,7 +14767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &641432402
 GameObject:
   m_ObjectHideFlags: 0
@@ -14808,7 +14864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &641432406
 Rigidbody2D:
   serializedVersion: 4
@@ -14899,7 +14955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &655879485
 GameObject:
   m_ObjectHideFlags: 0
@@ -14996,7 +15052,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &655879489
 Rigidbody2D:
   serializedVersion: 4
@@ -15140,7 +15196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &659545108
 Rigidbody2D:
   serializedVersion: 4
@@ -15284,7 +15340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &662554524
 Rigidbody2D:
   serializedVersion: 4
@@ -15428,7 +15484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &664075235
 Rigidbody2D:
   serializedVersion: 4
@@ -15519,7 +15575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &673645956
 GameObject:
   m_ObjectHideFlags: 0
@@ -15616,7 +15672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &673645960
 Rigidbody2D:
   serializedVersion: 4
@@ -15760,7 +15816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &675316425
 Rigidbody2D:
   serializedVersion: 4
@@ -15904,7 +15960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &675777096
 Rigidbody2D:
   serializedVersion: 4
@@ -16048,7 +16104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &677836623
 Rigidbody2D:
   serializedVersion: 4
@@ -16192,7 +16248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &678238783
 Rigidbody2D:
   serializedVersion: 4
@@ -16275,7 +16331,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -50.6}
-  m_SizeDelta: {x: 369.2, y: 50}
+  m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &681355358
 MonoBehaviour:
@@ -16326,8 +16382,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 46.1
+  m_fontSizeBase: 46.1
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -16472,7 +16528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &681756428
 Rigidbody2D:
   serializedVersion: 4
@@ -16616,7 +16672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &682369372
 Rigidbody2D:
   serializedVersion: 4
@@ -16707,7 +16763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &697897011
 GameObject:
   m_ObjectHideFlags: 0
@@ -16804,7 +16860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &697897015
 Rigidbody2D:
   serializedVersion: 4
@@ -16948,7 +17004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &698387145
 Rigidbody2D:
   serializedVersion: 4
@@ -17240,7 +17296,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &703543440
 GameObject:
   m_ObjectHideFlags: 0
@@ -17337,7 +17393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &703543444
 Rigidbody2D:
   serializedVersion: 4
@@ -17428,7 +17484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &707966614
 GameObject:
   m_ObjectHideFlags: 0
@@ -17472,7 +17528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &709940141
 GameObject:
   m_ObjectHideFlags: 0
@@ -17569,7 +17625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &709940145
 Rigidbody2D:
   serializedVersion: 4
@@ -17660,7 +17716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &714986102
 GameObject:
   m_ObjectHideFlags: 0
@@ -17704,7 +17760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &722525474
 GameObject:
   m_ObjectHideFlags: 0
@@ -17801,7 +17857,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &722525478
 Rigidbody2D:
   serializedVersion: 4
@@ -17945,7 +18001,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &722570142
 Rigidbody2D:
   serializedVersion: 4
@@ -18036,7 +18092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &725390327
 GameObject:
   m_ObjectHideFlags: 0
@@ -18080,7 +18136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &730091477
 GameObject:
   m_ObjectHideFlags: 0
@@ -18177,7 +18233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &730091481
 Rigidbody2D:
   serializedVersion: 4
@@ -18268,7 +18324,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &747080894
 GameObject:
   m_ObjectHideFlags: 0
@@ -18365,7 +18421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &747080898
 Rigidbody2D:
   serializedVersion: 4
@@ -18509,7 +18565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &748042799
 Rigidbody2D:
   serializedVersion: 4
@@ -18557,6 +18613,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &748374461 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6430587663309878302, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+    type: 3}
+  m_PrefabInstance: {fileID: 6430587662696152483}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62383262ecd547747b63ecbf06eba0e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &751797987
 GameObject:
   m_ObjectHideFlags: 0
@@ -18600,7 +18668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &757786569
 GameObject:
   m_ObjectHideFlags: 0
@@ -18644,7 +18712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &767512888
 GameObject:
   m_ObjectHideFlags: 0
@@ -18741,7 +18809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &767512892
 Rigidbody2D:
   serializedVersion: 4
@@ -18832,7 +18900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &777682840
 GameObject:
   m_ObjectHideFlags: 0
@@ -18876,7 +18944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &779490902
 GameObject:
   m_ObjectHideFlags: 0
@@ -18920,7 +18988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &786888563
 GameObject:
   m_ObjectHideFlags: 0
@@ -18964,7 +19032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &790959828
 GameObject:
   m_ObjectHideFlags: 0
@@ -19008,7 +19076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &791884229
 GameObject:
   m_ObjectHideFlags: 0
@@ -19105,7 +19173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &791884233
 Rigidbody2D:
   serializedVersion: 4
@@ -19249,7 +19317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &798231202
 Rigidbody2D:
   serializedVersion: 4
@@ -19340,7 +19408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &803508538
 GameObject:
   m_ObjectHideFlags: 0
@@ -19384,7 +19452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &804514739
 GameObject:
   m_ObjectHideFlags: 0
@@ -19481,7 +19549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &804514743
 Rigidbody2D:
   serializedVersion: 4
@@ -19572,7 +19640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &807281329
 GameObject:
   m_ObjectHideFlags: 0
@@ -19669,7 +19737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &807281333
 Rigidbody2D:
   serializedVersion: 4
@@ -19813,7 +19881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &809825363
 Rigidbody2D:
   serializedVersion: 4
@@ -19957,7 +20025,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &810582693
 Rigidbody2D:
   serializedVersion: 4
@@ -20101,7 +20169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &814737290
 Rigidbody2D:
   serializedVersion: 4
@@ -20192,7 +20260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &817245893
 GameObject:
   m_ObjectHideFlags: 0
@@ -20236,7 +20304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &817506263
 GameObject:
   m_ObjectHideFlags: 0
@@ -20333,7 +20401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &817506267
 Rigidbody2D:
   serializedVersion: 4
@@ -20424,7 +20492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &831921946
 GameObject:
   m_ObjectHideFlags: 0
@@ -20468,7 +20536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &831926021
 GameObject:
   m_ObjectHideFlags: 0
@@ -20512,7 +20580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &832623175
 GameObject:
   m_ObjectHideFlags: 0
@@ -20556,7 +20624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &833851538
 GameObject:
   m_ObjectHideFlags: 0
@@ -20600,7 +20668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &843583454
 GameObject:
   m_ObjectHideFlags: 0
@@ -20644,7 +20712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &845262573
 GameObject:
   m_ObjectHideFlags: 0
@@ -20688,7 +20756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &846109590
 GameObject:
   m_ObjectHideFlags: 0
@@ -20785,7 +20853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &846109594
 Rigidbody2D:
   serializedVersion: 4
@@ -20929,7 +20997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &846141496
 Rigidbody2D:
   serializedVersion: 4
@@ -21073,7 +21141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &846182594
 Rigidbody2D:
   serializedVersion: 4
@@ -21217,7 +21285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &857681559
 Rigidbody2D:
   serializedVersion: 4
@@ -21308,7 +21376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &859995392
 GameObject:
   m_ObjectHideFlags: 0
@@ -21405,7 +21473,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &859995396
 Rigidbody2D:
   serializedVersion: 4
@@ -21496,7 +21564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &866323087
 GameObject:
   m_ObjectHideFlags: 0
@@ -21627,7 +21695,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &868466702
 Rigidbody2D:
   serializedVersion: 4
@@ -21718,7 +21786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &878315522
 GameObject:
   m_ObjectHideFlags: 0
@@ -21815,7 +21883,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &878315526
 Rigidbody2D:
   serializedVersion: 4
@@ -21863,108 +21931,49 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &883479867
+--- !u!1 &883479867 stripped
 GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 883479870}
-  - component: {fileID: 883479869}
-  - component: {fileID: 883479868}
-  m_Layer: 0
-  m_Name: Orange
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!95 &883479868
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 883479867}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3050b683c7bb7ea4a81b77dbf2b94f78, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &883479869
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 883479867}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1339794069
-  m_SortingLayer: 1
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 4121880872312635667, guid: 0cc58f9f9388b3741bef41c4d46c2a38,
+  m_CorrespondingSourceObject: {fileID: 3829096321530931598, guid: 99a911e147000e54cacf41d528f14287,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.56, y: 0.56}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &883479870
-Transform:
+  m_PrefabInstance: {fileID: 3829096321188625589}
+  m_PrefabAsset: {fileID: 0}
+--- !u!58 &883479868
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883479867}
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: -0.7071068}
-  m_LocalPosition: {x: -1, y: 0.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1598477551}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 270}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.28000006
+--- !u!50 &883479869
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883479867}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &890108423
 GameObject:
   m_ObjectHideFlags: 0
@@ -22008,7 +22017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &893365660
 GameObject:
   m_ObjectHideFlags: 0
@@ -22105,7 +22114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &893365664
 Rigidbody2D:
   serializedVersion: 4
@@ -22249,7 +22258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &900017180
 Rigidbody2D:
   serializedVersion: 4
@@ -22340,7 +22349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &913528598
 GameObject:
   m_ObjectHideFlags: 0
@@ -22384,7 +22393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &924769509
 GameObject:
   m_ObjectHideFlags: 0
@@ -22481,7 +22490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &924769513
 Rigidbody2D:
   serializedVersion: 4
@@ -22625,7 +22634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &927192943
 Rigidbody2D:
   serializedVersion: 4
@@ -22769,7 +22778,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &934150438
 Rigidbody2D:
   serializedVersion: 4
@@ -22966,7 +22975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &951259478
 Rigidbody2D:
   serializedVersion: 4
@@ -23057,7 +23066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &958456113
 GameObject:
   m_ObjectHideFlags: 0
@@ -23101,7 +23110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &974988779
 GameObject:
   m_ObjectHideFlags: 0
@@ -23145,7 +23154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &977047692
 GameObject:
   m_ObjectHideFlags: 0
@@ -23189,7 +23198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &977799013
 GameObject:
   m_ObjectHideFlags: 0
@@ -23286,7 +23295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &977799017
 Rigidbody2D:
   serializedVersion: 4
@@ -23430,7 +23439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &978925277
 Rigidbody2D:
   serializedVersion: 4
@@ -23574,7 +23583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &994449576
 Rigidbody2D:
   serializedVersion: 4
@@ -23718,7 +23727,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &994804616
 Rigidbody2D:
   serializedVersion: 4
@@ -23809,7 +23818,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1003229625
 GameObject:
   m_ObjectHideFlags: 0
@@ -23906,7 +23915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1003229629
 Rigidbody2D:
   serializedVersion: 4
@@ -24050,7 +24059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1003963559
 Rigidbody2D:
   serializedVersion: 4
@@ -24141,7 +24150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1023685792
 GameObject:
   m_ObjectHideFlags: 0
@@ -24238,7 +24247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1023685796
 Rigidbody2D:
   serializedVersion: 4
@@ -24382,7 +24391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1028640224
 Rigidbody2D:
   serializedVersion: 4
@@ -24473,7 +24482,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1042633863
 GameObject:
   m_ObjectHideFlags: 0
@@ -24570,7 +24579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1042633867
 Rigidbody2D:
   serializedVersion: 4
@@ -24714,7 +24723,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1076750379
 Rigidbody2D:
   serializedVersion: 4
@@ -24805,88 +24814,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
---- !u!1 &1078525864
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1078525866}
-  - component: {fileID: 1078525865}
-  m_Layer: 0
-  m_Name: Grid Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
-  m_IsActive: 0
---- !u!212 &1078525865
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1078525864}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -449587111
-  m_SortingLayer: 2
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c643f34d72e45cb4aa21600921ccf315, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.6117647}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.285, y: 2.92}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1078525866
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1078525864}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.06, z: 0}
-  m_LocalScale: {x: 9, y: 9, z: 9}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  _gameObstacle: 0
 --- !u!1 &1081776573
 GameObject:
   m_ObjectHideFlags: 0
@@ -24983,7 +24911,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1081776577
 Rigidbody2D:
   serializedVersion: 4
@@ -25127,7 +25055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1084910355
 Rigidbody2D:
   serializedVersion: 4
@@ -25186,7 +25114,7 @@ GameObject:
   - component: {fileID: 1088247762}
   - component: {fileID: 1088247764}
   m_Layer: 0
-  m_Name: Cell
+  m_Name: Cell_P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25218,7 +25146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 4
 --- !u!1 &1096505958
 GameObject:
   m_ObjectHideFlags: 0
@@ -25262,7 +25190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1097377238
 GameObject:
   m_ObjectHideFlags: 0
@@ -25359,7 +25287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1097377242
 Rigidbody2D:
   serializedVersion: 4
@@ -25503,7 +25431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1107942662
 Rigidbody2D:
   serializedVersion: 4
@@ -25647,7 +25575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1119216018
 Rigidbody2D:
   serializedVersion: 4
@@ -25738,7 +25666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1130567415
 GameObject:
   m_ObjectHideFlags: 0
@@ -25782,7 +25710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1134522388
 GameObject:
   m_ObjectHideFlags: 0
@@ -25879,7 +25807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1134522392
 Rigidbody2D:
   serializedVersion: 4
@@ -25970,7 +25898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1145686051
 GameObject:
   m_ObjectHideFlags: 0
@@ -26014,7 +25942,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1147526026
 GameObject:
   m_ObjectHideFlags: 0
@@ -26111,7 +26039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1147526030
 Rigidbody2D:
   serializedVersion: 4
@@ -26202,7 +26130,60 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
+--- !u!1 &1160696776 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6440268452780440864, guid: 36636e2e4688c9c43bfeea5fadb44927,
+    type: 3}
+  m_PrefabInstance: {fileID: 6440268454058940244}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1160696777
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1160696776}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!50 &1160696778
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1160696776}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1162576569
 GameObject:
   m_ObjectHideFlags: 0
@@ -26246,7 +26227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1165446429
 GameObject:
   m_ObjectHideFlags: 0
@@ -26377,7 +26358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1167108948
 Rigidbody2D:
   serializedVersion: 4
@@ -26468,7 +26449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1171234441
 GameObject:
   m_ObjectHideFlags: 0
@@ -26565,7 +26546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1171234445
 Rigidbody2D:
   serializedVersion: 4
@@ -26656,7 +26637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1184156027
 GameObject:
   m_ObjectHideFlags: 0
@@ -26753,7 +26734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1184156031
 Rigidbody2D:
   serializedVersion: 4
@@ -26844,7 +26825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1194046365
 GameObject:
   m_ObjectHideFlags: 0
@@ -26941,7 +26922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1194046369
 Rigidbody2D:
   serializedVersion: 4
@@ -27032,7 +27013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 5
 --- !u!1 &1201197027
 GameObject:
   m_ObjectHideFlags: 0
@@ -27076,7 +27057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1206027429
 GameObject:
   m_ObjectHideFlags: 0
@@ -27120,7 +27101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1206656472
 GameObject:
   m_ObjectHideFlags: 0
@@ -27217,7 +27198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1206656476
 Rigidbody2D:
   serializedVersion: 4
@@ -27308,7 +27289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1218640067
 GameObject:
   m_ObjectHideFlags: 0
@@ -27405,7 +27386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1218640071
 Rigidbody2D:
   serializedVersion: 4
@@ -27549,7 +27530,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1222072475
 Rigidbody2D:
   serializedVersion: 4
@@ -27640,7 +27621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1243033417
 GameObject:
   m_ObjectHideFlags: 0
@@ -27737,7 +27718,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1243033421
 Rigidbody2D:
   serializedVersion: 4
@@ -27881,7 +27862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1255376858
 Rigidbody2D:
   serializedVersion: 4
@@ -28025,7 +28006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1255842203
 Rigidbody2D:
   serializedVersion: 4
@@ -28169,7 +28150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1260226598
 Rigidbody2D:
   serializedVersion: 4
@@ -28260,7 +28241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1272872406
 GameObject:
   m_ObjectHideFlags: 0
@@ -28357,7 +28338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1272872410
 Rigidbody2D:
   serializedVersion: 4
@@ -28448,7 +28429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1278082784
 GameObject:
   m_ObjectHideFlags: 0
@@ -28524,7 +28505,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1286603994
 GameObject:
   m_ObjectHideFlags: 0
@@ -28568,7 +28549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1291096855
 GameObject:
   m_ObjectHideFlags: 0
@@ -28665,7 +28646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1291096859
 Rigidbody2D:
   serializedVersion: 4
@@ -28809,7 +28790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1298205946
 Rigidbody2D:
   serializedVersion: 4
@@ -28900,7 +28881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1308913746
 GameObject:
   m_ObjectHideFlags: 0
@@ -28997,7 +28978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1308913750
 Rigidbody2D:
   serializedVersion: 4
@@ -29141,7 +29122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1309000375
 Rigidbody2D:
   serializedVersion: 4
@@ -29285,7 +29266,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1319962194
 Rigidbody2D:
   serializedVersion: 4
@@ -29429,7 +29410,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1325171006
 Rigidbody2D:
   serializedVersion: 4
@@ -29520,7 +29501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1328626352
 GameObject:
   m_ObjectHideFlags: 0
@@ -29617,7 +29598,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1328626356
 Rigidbody2D:
   serializedVersion: 4
@@ -29708,7 +29689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1340968172
 GameObject:
   m_ObjectHideFlags: 0
@@ -29752,7 +29733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1341699479
 GameObject:
   m_ObjectHideFlags: 0
@@ -29796,7 +29777,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1345826387
 GameObject:
   m_ObjectHideFlags: 0
@@ -29893,7 +29874,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1345826391
 Rigidbody2D:
   serializedVersion: 4
@@ -29984,7 +29965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1346725202
 GameObject:
   m_ObjectHideFlags: 0
@@ -30081,7 +30062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1346725206
 Rigidbody2D:
   serializedVersion: 4
@@ -30225,7 +30206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1347004219
 Rigidbody2D:
   serializedVersion: 4
@@ -30369,7 +30350,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1357423979
 Rigidbody2D:
   serializedVersion: 4
@@ -30513,7 +30494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1359984313
 Rigidbody2D:
   serializedVersion: 4
@@ -30657,7 +30638,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1364047173
 Rigidbody2D:
   serializedVersion: 4
@@ -30801,7 +30782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1375324242
 Rigidbody2D:
   serializedVersion: 4
@@ -30945,7 +30926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1383058051
 Rigidbody2D:
   serializedVersion: 4
@@ -31036,7 +31017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!4 &1388293436 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6385599003434888079, guid: 864841ab530a89345aa87f92b5561736,
@@ -31086,7 +31067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1391551288
 GameObject:
   m_ObjectHideFlags: 0
@@ -31183,7 +31164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1391551292
 Rigidbody2D:
   serializedVersion: 4
@@ -31274,7 +31255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1399084424
 GameObject:
   m_ObjectHideFlags: 0
@@ -31318,7 +31299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1399124425
 GameObject:
   m_ObjectHideFlags: 0
@@ -31415,7 +31396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1399124429
 Rigidbody2D:
   serializedVersion: 4
@@ -31559,7 +31540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1402208435
 Rigidbody2D:
   serializedVersion: 4
@@ -31703,7 +31684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1414668504
 Rigidbody2D:
   serializedVersion: 4
@@ -31847,7 +31828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1417515023
 Rigidbody2D:
   serializedVersion: 4
@@ -31938,7 +31919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1429054462
 GameObject:
   m_ObjectHideFlags: 0
@@ -31982,7 +31963,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1437143471
 GameObject:
   m_ObjectHideFlags: 0
@@ -32026,7 +32007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1443255288
 GameObject:
   m_ObjectHideFlags: 0
@@ -32123,7 +32104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1443255292
 Rigidbody2D:
   serializedVersion: 4
@@ -32267,7 +32248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1447007381
 Rigidbody2D:
   serializedVersion: 4
@@ -32411,7 +32392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1447929295
 Rigidbody2D:
   serializedVersion: 4
@@ -32555,7 +32536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1449832621
 Rigidbody2D:
   serializedVersion: 4
@@ -32699,7 +32680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1471145559
 Rigidbody2D:
   serializedVersion: 4
@@ -32790,7 +32771,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1001 &1484608693
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32861,7 +32842,7 @@ PrefabInstance:
     - target: {fileID: 4989305319250694182, guid: b912d611432a19f4c9e595b46cc16bf2,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4989305319250694182, guid: b912d611432a19f4c9e595b46cc16bf2,
         type: 3}
@@ -32919,7 +32900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1494600064
 GameObject:
   m_ObjectHideFlags: 0
@@ -32963,7 +32944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1504416295
 GameObject:
   m_ObjectHideFlags: 0
@@ -33007,7 +32988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1511639586
 GameObject:
   m_ObjectHideFlags: 0
@@ -33051,7 +33032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1523864586
 GameObject:
   m_ObjectHideFlags: 0
@@ -33095,7 +33076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1527528061
 GameObject:
   m_ObjectHideFlags: 0
@@ -33192,7 +33173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1527528065
 Rigidbody2D:
   serializedVersion: 4
@@ -33336,7 +33317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1535858398
 Rigidbody2D:
   serializedVersion: 4
@@ -33433,7 +33414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1556781932
 GameObject:
   m_ObjectHideFlags: 0
@@ -33530,7 +33511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1556781936
 Rigidbody2D:
   serializedVersion: 4
@@ -33621,7 +33602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1581585771
 GameObject:
   m_ObjectHideFlags: 0
@@ -33718,7 +33699,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1581585775
 Rigidbody2D:
   serializedVersion: 4
@@ -33862,7 +33843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1591352824
 Rigidbody2D:
   serializedVersion: 4
@@ -33953,7 +33934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1598464152
 GameObject:
   m_ObjectHideFlags: 0
@@ -34050,7 +34031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1598464156
 Rigidbody2D:
   serializedVersion: 4
@@ -34098,37 +34079,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &1598477550
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1598477551}
-  m_Layer: 0
-  m_Name: Ghosts
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1598477551
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598477550}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 883479870}
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1598782657
 GameObject:
   m_ObjectHideFlags: 0
@@ -34172,7 +34122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1603488410
 GameObject:
   m_ObjectHideFlags: 0
@@ -34498,7 +34448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1616173564
 GameObject:
   m_ObjectHideFlags: 0
@@ -34595,7 +34545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1616173568
 Rigidbody2D:
   serializedVersion: 4
@@ -34686,7 +34636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1626207933
 GameObject:
   m_ObjectHideFlags: 0
@@ -34783,7 +34733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1626207937
 Rigidbody2D:
   serializedVersion: 4
@@ -34927,7 +34877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1631898965
 Rigidbody2D:
   serializedVersion: 4
@@ -35071,7 +35021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1632096985
 Rigidbody2D:
   serializedVersion: 4
@@ -35215,7 +35165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1632172620
 Rigidbody2D:
   serializedVersion: 4
@@ -35359,7 +35309,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1637929991
 Rigidbody2D:
   serializedVersion: 4
@@ -35503,7 +35453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1642737438
 Rigidbody2D:
   serializedVersion: 4
@@ -35594,7 +35544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1677506908
 GameObject:
   m_ObjectHideFlags: 0
@@ -35638,7 +35588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1680408833
 GameObject:
   m_ObjectHideFlags: 0
@@ -35735,7 +35685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1680408837
 Rigidbody2D:
   serializedVersion: 4
@@ -35879,7 +35829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1683478515
 Rigidbody2D:
   serializedVersion: 4
@@ -35970,7 +35920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1690904802
 GameObject:
   m_ObjectHideFlags: 0
@@ -36067,7 +36017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1690904806
 Rigidbody2D:
   serializedVersion: 4
@@ -36158,7 +36108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1691471098
 GameObject:
   m_ObjectHideFlags: 0
@@ -36255,7 +36205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1691471102
 Rigidbody2D:
   serializedVersion: 4
@@ -36346,7 +36296,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1699808168
 GameObject:
   m_ObjectHideFlags: 0
@@ -36443,7 +36393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1699808172
 Rigidbody2D:
   serializedVersion: 4
@@ -36587,7 +36537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1704732304
 Rigidbody2D:
   serializedVersion: 4
@@ -36731,7 +36681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1707997446
 Rigidbody2D:
   serializedVersion: 4
@@ -36875,7 +36825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1710563882
 Rigidbody2D:
   serializedVersion: 4
@@ -36966,7 +36916,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1719225721
 GameObject:
   m_ObjectHideFlags: 0
@@ -37063,7 +37013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1719225725
 Rigidbody2D:
   serializedVersion: 4
@@ -37207,7 +37157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1719979977
 Rigidbody2D:
   serializedVersion: 4
@@ -37351,7 +37301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1732837154
 Rigidbody2D:
   serializedVersion: 4
@@ -37495,7 +37445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1736744147
 Rigidbody2D:
   serializedVersion: 4
@@ -37586,7 +37536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1760560825
 GameObject:
   m_ObjectHideFlags: 0
@@ -37630,7 +37580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1762371413
 GameObject:
   m_ObjectHideFlags: 0
@@ -37727,7 +37677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1762371417
 Rigidbody2D:
   serializedVersion: 4
@@ -37871,7 +37821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1765970704
 Rigidbody2D:
   serializedVersion: 4
@@ -38015,7 +37965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1778964125
 Rigidbody2D:
   serializedVersion: 4
@@ -38159,7 +38109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1787864932
 Rigidbody2D:
   serializedVersion: 4
@@ -38303,7 +38253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1788712439
 Rigidbody2D:
   serializedVersion: 4
@@ -38447,7 +38397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1790604395
 Rigidbody2D:
   serializedVersion: 4
@@ -38538,7 +38488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1802458574
 GameObject:
   m_ObjectHideFlags: 0
@@ -38582,7 +38532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1809520462
 GameObject:
   m_ObjectHideFlags: 0
@@ -38679,7 +38629,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1809520466
 Rigidbody2D:
   serializedVersion: 4
@@ -38823,7 +38773,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1827388577
 Rigidbody2D:
   serializedVersion: 4
@@ -38967,7 +38917,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1828390617
 Rigidbody2D:
   serializedVersion: 4
@@ -39111,7 +39061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1829657101
 Rigidbody2D:
   serializedVersion: 4
@@ -39202,7 +39152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1834032882
 GameObject:
   m_ObjectHideFlags: 0
@@ -39246,7 +39196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1837955867
 GameObject:
   m_ObjectHideFlags: 0
@@ -39343,7 +39293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1837955871
 Rigidbody2D:
   serializedVersion: 4
@@ -39434,7 +39384,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1848268997
 GameObject:
   m_ObjectHideFlags: 0
@@ -39531,7 +39481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1848269001
 Rigidbody2D:
   serializedVersion: 4
@@ -39675,7 +39625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1849640890
 Rigidbody2D:
   serializedVersion: 4
@@ -39766,7 +39716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1856028030
 GameObject:
   m_ObjectHideFlags: 0
@@ -39863,7 +39813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1856028034
 Rigidbody2D:
   serializedVersion: 4
@@ -40007,7 +39957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1858715043
 Rigidbody2D:
   serializedVersion: 4
@@ -40151,7 +40101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1869060607
 Rigidbody2D:
   serializedVersion: 4
@@ -40295,7 +40245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1872293436
 Rigidbody2D:
   serializedVersion: 4
@@ -40386,7 +40336,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1878143804
 GameObject:
   m_ObjectHideFlags: 0
@@ -40430,7 +40380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1878933678
 GameObject:
   m_ObjectHideFlags: 0
@@ -40474,7 +40424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1883226690
 GameObject:
   m_ObjectHideFlags: 0
@@ -40518,7 +40468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1885459014
 GameObject:
   m_ObjectHideFlags: 0
@@ -40615,7 +40565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1885459018
 Rigidbody2D:
   serializedVersion: 4
@@ -40706,7 +40656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1896737396
 GameObject:
   m_ObjectHideFlags: 0
@@ -40803,7 +40753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1896737400
 Rigidbody2D:
   serializedVersion: 4
@@ -40862,7 +40812,7 @@ GameObject:
   - component: {fileID: 1900141735}
   - component: {fileID: 1900141737}
   m_Layer: 0
-  m_Name: Cell
+  m_Name: Cell_P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40894,7 +40844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 4
 --- !u!1 &1909287524
 GameObject:
   m_ObjectHideFlags: 0
@@ -40991,7 +40941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1909287528
 Rigidbody2D:
   serializedVersion: 4
@@ -41082,7 +41032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1910220921
 GameObject:
   m_ObjectHideFlags: 0
@@ -41094,6 +41044,8 @@ GameObject:
   - component: {fileID: 1910220922}
   - component: {fileID: 1910220923}
   - component: {fileID: 1910220924}
+  - component: {fileID: 1910220926}
+  - component: {fileID: 1910220925}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -41177,7 +41129,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 2
+  _gameObstacle: 2
+--- !u!50 &1910220925
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910220921}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!61 &1910220926
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910220921}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1917082357
 GameObject:
   m_ObjectHideFlags: 0
@@ -41221,7 +41220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1918060767
 GameObject:
   m_ObjectHideFlags: 0
@@ -41265,7 +41264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1920495365
 GameObject:
   m_ObjectHideFlags: 0
@@ -41362,7 +41361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1920495369
 Rigidbody2D:
   serializedVersion: 4
@@ -41453,7 +41452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1930388576
 GameObject:
   m_ObjectHideFlags: 0
@@ -41497,7 +41496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1934833291
 GameObject:
   m_ObjectHideFlags: 0
@@ -41594,7 +41593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1934833295
 Rigidbody2D:
   serializedVersion: 4
@@ -41738,7 +41737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1935321526
 Rigidbody2D:
   serializedVersion: 4
@@ -41829,7 +41828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1941692070
 GameObject:
   m_ObjectHideFlags: 0
@@ -41873,7 +41872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1943562953
 GameObject:
   m_ObjectHideFlags: 0
@@ -41970,7 +41969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1943562957
 Rigidbody2D:
   serializedVersion: 4
@@ -42029,6 +42028,8 @@ GameObject:
   - component: {fileID: 1948619769}
   - component: {fileID: 1948619770}
   - component: {fileID: 1948619771}
+  - component: {fileID: 1948619773}
+  - component: {fileID: 1948619772}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -42112,7 +42113,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 2
+  _gameObstacle: 2
+--- !u!50 &1948619772
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1948619768}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!61 &1948619773
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1948619768}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1948839147
 GameObject:
   m_ObjectHideFlags: 0
@@ -42156,7 +42204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1949544436
 GameObject:
   m_ObjectHideFlags: 0
@@ -42253,7 +42301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1949544440
 Rigidbody2D:
   serializedVersion: 4
@@ -42397,7 +42445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1970946907
 Rigidbody2D:
   serializedVersion: 4
@@ -42488,7 +42536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1974357222
 GameObject:
   m_ObjectHideFlags: 0
@@ -42585,7 +42633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1974357226
 Rigidbody2D:
   serializedVersion: 4
@@ -42676,7 +42724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1974673758
 GameObject:
   m_ObjectHideFlags: 0
@@ -42773,7 +42821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1974673762
 Rigidbody2D:
   serializedVersion: 4
@@ -42864,7 +42912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1985096340
 GameObject:
   m_ObjectHideFlags: 0
@@ -42908,7 +42956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1986796659
 GameObject:
   m_ObjectHideFlags: 0
@@ -43005,7 +43053,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1986796663
 Rigidbody2D:
   serializedVersion: 4
@@ -43096,7 +43144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1993164955
 GameObject:
   m_ObjectHideFlags: 0
@@ -43140,7 +43188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &1995708031
 GameObject:
   m_ObjectHideFlags: 0
@@ -43237,7 +43285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1995708035
 Rigidbody2D:
   serializedVersion: 4
@@ -43381,7 +43429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1998096163
 Rigidbody2D:
   serializedVersion: 4
@@ -43440,7 +43488,7 @@ GameObject:
   - component: {fileID: 1998912529}
   - component: {fileID: 1998912531}
   m_Layer: 0
-  m_Name: Cell
+  m_Name: Cell_P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43472,7 +43520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 4
 --- !u!1 &1999045377
 GameObject:
   m_ObjectHideFlags: 0
@@ -43569,7 +43617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &1999045381
 Rigidbody2D:
   serializedVersion: 4
@@ -43617,6 +43665,140 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1999096397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1999096398}
+  - component: {fileID: 1999096400}
+  - component: {fileID: 1999096399}
+  m_Layer: 5
+  m_Name: Press Space
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1999096398
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999096397}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 247749484}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -263}
+  m_SizeDelta: {x: 724.4, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1999096399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999096397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: press spacebar to start
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: eae3bec584fcdf54c99c55c8aa679921, type: 2}
+  m_sharedMaterial: {fileID: -6405641549329139013, guid: eae3bec584fcdf54c99c55c8aa679921,
+    type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278714367
+  m_fontColor: {r: 1, g: 1, b: 0.027450982, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 40
+  m_fontSizeBase: 40
+  m_fontWeight: 400
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 40
+  m_fontSizeMax: 72
+  m_fontStyle: 17
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: -86.7
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 1
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1999096400
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999096397}
+  m_CullTransparentMesh: 0
 --- !u!1 &2004452062
 GameObject:
   m_ObjectHideFlags: 0
@@ -43713,7 +43895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2004452066
 Rigidbody2D:
   serializedVersion: 4
@@ -43857,7 +44039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2012869878
 Rigidbody2D:
   serializedVersion: 4
@@ -44001,7 +44183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2018034341
 Rigidbody2D:
   serializedVersion: 4
@@ -44145,7 +44327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2019445825
 Rigidbody2D:
   serializedVersion: 4
@@ -44289,7 +44471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2026062320
 Rigidbody2D:
   serializedVersion: 4
@@ -44380,7 +44562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2034587282
 GameObject:
   m_ObjectHideFlags: 0
@@ -44424,7 +44606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2036901653
 GameObject:
   m_ObjectHideFlags: 0
@@ -44521,7 +44703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2036901657
 Rigidbody2D:
   serializedVersion: 4
@@ -44665,7 +44847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2038955076
 Rigidbody2D:
   serializedVersion: 4
@@ -44756,7 +44938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2041277400
 GameObject:
   m_ObjectHideFlags: 0
@@ -44853,7 +45035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2041277404
 Rigidbody2D:
   serializedVersion: 4
@@ -44997,7 +45179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2044106526
 Rigidbody2D:
   serializedVersion: 4
@@ -45141,7 +45323,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2056331548
 Rigidbody2D:
   serializedVersion: 4
@@ -45285,7 +45467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2059528943
 Rigidbody2D:
   serializedVersion: 4
@@ -45376,7 +45558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2072616357
 GameObject:
   m_ObjectHideFlags: 0
@@ -45473,7 +45655,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2072616361
 Rigidbody2D:
   serializedVersion: 4
@@ -45555,8 +45737,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 840}
-  m_SizeDelta: {x: 346.7, y: 50}
+  m_AnchoredPosition: {x: 0, y: 829}
+  m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2075588233
 MonoBehaviour:
@@ -45577,7 +45759,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 32234343
+  m_text: 00000000
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: eae3bec584fcdf54c99c55c8aa679921, type: 2}
   m_sharedMaterial: {fileID: -6405641549329139013, guid: eae3bec584fcdf54c99c55c8aa679921,
@@ -45605,12 +45787,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 42
+  m_fontSizeBase: 40
   m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 42
+  m_fontSizeMax: 50
   m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -45698,7 +45880,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2082908307
 GameObject:
   m_ObjectHideFlags: 0
@@ -45742,7 +45924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2084173375
 GameObject:
   m_ObjectHideFlags: 0
@@ -45786,7 +45968,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2085991396
 GameObject:
   m_ObjectHideFlags: 0
@@ -45883,7 +46065,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2085991400
 Rigidbody2D:
   serializedVersion: 4
@@ -46027,7 +46209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2118357529
 Rigidbody2D:
   serializedVersion: 4
@@ -46171,7 +46353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2119749360
 Rigidbody2D:
   serializedVersion: 4
@@ -46230,6 +46412,8 @@ GameObject:
   - component: {fileID: 2121158435}
   - component: {fileID: 2121158436}
   - component: {fileID: 2121158437}
+  - component: {fileID: 2121158439}
+  - component: {fileID: 2121158438}
   m_Layer: 0
   m_Name: House
   m_TagString: Untagged
@@ -46313,7 +46497,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 3
+  _gameObstacle: 3
+--- !u!61 &2121158438
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121158434}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!50 &2121158439
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121158434}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2123624552
 GameObject:
   m_ObjectHideFlags: 0
@@ -46410,7 +46641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2123624556
 Rigidbody2D:
   serializedVersion: 4
@@ -46501,7 +46732,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2130932636
 GameObject:
   m_ObjectHideFlags: 0
@@ -46598,7 +46829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2130932640
 Rigidbody2D:
   serializedVersion: 4
@@ -46742,7 +46973,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2131590346
 Rigidbody2D:
   serializedVersion: 4
@@ -46886,7 +47117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 1
+  _gameObstacle: 1
 --- !u!50 &2131978479
 Rigidbody2D:
   serializedVersion: 4
@@ -46977,7 +47208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1 &2143448022
 GameObject:
   m_ObjectHideFlags: 0
@@ -47021,7 +47252,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8b0d7219991844096f7006629f6a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObstacle: 0
+  _gameObstacle: 0
 --- !u!1001 &3739645070713919249
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47094,38 +47325,97 @@ PrefabInstance:
       propertyPath: _textScore
       value: 
       objectReference: {fileID: 2075588233}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Collect
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130157796557149308, guid: 752ceb3255c734b42b71c636cfc9bf78,
-        type: 3}
-      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 752ceb3255c734b42b71c636cfc9bf78, type: 3}
+--- !u!1001 &3829096321188625589
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3829096321530931594, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096321530931598, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096321530931598, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197893, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: _ghosts.Array.data[0]
+      value: 
+      objectReference: {fileID: 883479867}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197914, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829096322149197915, guid: 99a911e147000e54cacf41d528f14287,
+        type: 3}
+      propertyPath: m_Name
+      value: GhostManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 99a911e147000e54cacf41d528f14287, type: 3}
 --- !u!1001 &4523580598038309013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47141,12 +47431,12 @@ PrefabInstance:
     - target: {fileID: 4523580598451677188, guid: e4c3bb7f074714e429d8b125cd71011f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.5
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4523580598451677188, guid: e4c3bb7f074714e429d8b125cd71011f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.5
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4523580598451677188, guid: e4c3bb7f074714e429d8b125cd71011f,
         type: 3}
@@ -47192,6 +47482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FlipY
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4523580598451677191, guid: e4c3bb7f074714e429d8b125cd71011f,
+        type: 3}
+      propertyPath: _powerUpTim
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4523580598451677191, guid: e4c3bb7f074714e429d8b125cd71011f,
         type: 3}
@@ -47275,7 +47570,7 @@ PrefabInstance:
     - target: {fileID: 4989305319250694182, guid: b912d611432a19f4c9e595b46cc16bf2,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4989305319250694182, guid: b912d611432a19f4c9e595b46cc16bf2,
         type: 3}
@@ -47300,6 +47595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6385599003434888077, guid: 864841ab530a89345aa87f92b5561736,
+        type: 3}
+      propertyPath: _gameObstacle
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6385599003434888079, guid: 864841ab530a89345aa87f92b5561736,
         type: 3}
@@ -47358,6 +47658,80 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 864841ab530a89345aa87f92b5561736, type: 3}
+--- !u!1001 &6430587662696152483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878301, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430587663309878302, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: _startText
+      value: 
+      objectReference: {fileID: 1999096399}
+    - target: {fileID: 6430587663309878303, guid: b70ccdfdeb2ac27499dee4ca76fbf7be,
+        type: 3}
+      propertyPath: m_Name
+      value: GameManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b70ccdfdeb2ac27499dee4ca76fbf7be, type: 3}
 --- !u!1001 &6440268454058940244
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47373,7 +47747,7 @@ PrefabInstance:
     - target: {fileID: 6440268452780440865, guid: 36636e2e4688c9c43bfeea5fadb44927,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6440268452780440865, guid: 36636e2e4688c9c43bfeea5fadb44927,
         type: 3}
@@ -47430,6 +47804,11 @@ PrefabInstance:
       propertyPath: GameObstacle
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6440268452780440867, guid: 36636e2e4688c9c43bfeea5fadb44927,
+        type: 3}
+      propertyPath: _gameObstacle
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36636e2e4688c9c43bfeea5fadb44927, type: 3}
 --- !u!1001 &6885935898425860982
@@ -47445,6 +47824,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7175438329112833653, guid: 82eb171c54c7e3c4bb169672c0c9415f,
         type: 3}
+    - target: {fileID: 6885935898265511490, guid: b498ed3f079a59846b3894c0e8d9f53c,
+        type: 3}
+      propertyPath: _clips.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885935898265511490, guid: b498ed3f079a59846b3894c0e8d9f53c,
+        type: 3}
+      propertyPath: _clips.Array.data[14]
+      value: 
+      objectReference: {fileID: 8300000, guid: a4737e524689cf947965cd705a6e469d, type: 3}
     - target: {fileID: 6885935898265511490, guid: b498ed3f079a59846b3894c0e8d9f53c,
         type: 3}
       propertyPath: _audioSources.Array.size
@@ -47544,6 +47933,56 @@ PrefabInstance:
       propertyPath: cells
       value: 
       objectReference: {fileID: 703271386}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: powerUpTransforms.Array.data[0]
+      value: 
+      objectReference: {fileID: 1900141735}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: powerUpTransforms.Array.data[1]
+      value: 
+      objectReference: {fileID: 1998912529}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: powerUpTransforms.Array.data[2]
+      value: 
+      objectReference: {fileID: 1088247762}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: powerUpTransforms.Array.data[3]
+      value: 
+      objectReference: {fileID: 138998393}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 748374461}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: StageComplete
+      objectReference: {fileID: 0}
+    - target: {fileID: 7731676434528252241, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
+        type: 3}
+      propertyPath: OnCompleteEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 7731676434528252242, guid: 5bf5ba3581c41a84db8b0c9512b19c53,
         type: 3}
       propertyPath: m_RootOrder

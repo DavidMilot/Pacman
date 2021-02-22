@@ -10,12 +10,15 @@ public class Player : MonoBehaviour,IMovement
         Moving,
         Dead
     }
+    public static Player Instance;
 
     SpriteRenderer _playerSpriteRenderer;
     Animator _playerAnimator;
     Rigidbody2D _playerRigidbody2D;
-
+    float _powerUpTime;
     PlayerState _playerState = PlayerState.Idle;
+    bool _playerPowerUpEnabled = false;
+
     Enums.MoveDirection _playerMoveDirection = Enums.MoveDirection.None;
     Vector3 _curPosition,_targetPosition;
     float _journeyLength, _startTime;
@@ -25,67 +28,83 @@ public class Player : MonoBehaviour,IMovement
 
     float _drawDistance = 1.0f;
 
+    void Awake()
+    {
+        if (Instance != null)
+        {
+            GameObject.Destroy(Instance);
+        }
+        else
+        {
+            Instance = this;
+            DontDestroyOnLoad(this);
+        }
+    }
+
+
     void Update()
     {
-        //CheckValidMoveInput();
-        if (_playerState == PlayerState.Idle)
+        if (GameManager.Instance.CurrentGameState == GameManager.GameState.Game)
         {
-            if (Input.GetKey(KeyCode.W))
+            if (_playerState == PlayerState.Idle)
             {
-                dir = Enums.MoveDirection.Up;
-            }
-            else if (Input.GetKey(KeyCode.S))
-            {
-                dir = Enums.MoveDirection.Down;
-            }
-            else if (Input.GetKey(KeyCode.A))
-            {
-                dir = Enums.MoveDirection.Left;
-            }
-            else if (Input.GetKey(KeyCode.D))
-            {
-                dir = Enums.MoveDirection.Right;
-            }
-
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, GetMoveStepDistance(dir), _drawDistance);
-            UnityEngine.Debug.DrawRay(transform.position, GetMoveStepDistance(dir), Color.green);
-
-            bool safeToMove = false;
-
-            if (hit.collider != null)
-            {
-                if (hit.collider.transform.name == "Wall" || hit.collider.transform.name == "Door" || hit.collider.transform.name == "House")
+                if (Input.GetKey(KeyCode.W))
                 {
-                    //Debug.Log("Hit = " + hit.collider.transform.name);
-                    _playerState = PlayerState.Idle;
-                    //_fractionOfJourney = 1.0f;
+                    dir = Enums.MoveDirection.Up;
                 }
-                else
+                else if (Input.GetKey(KeyCode.S))
                 {
-                    //Debug.Log("Hit GOod?= " + hit.collider.transform.name);
-                    safeToMove = true; 
+                    dir = Enums.MoveDirection.Down;
+                }
+                else if (Input.GetKey(KeyCode.A))
+                {
+                    dir = Enums.MoveDirection.Left;
+                }
+                else if (Input.GetKey(KeyCode.D))
+                {
+                    dir = Enums.MoveDirection.Right;
+                }
+
+                RaycastHit2D hit = Physics2D.Raycast(transform.position, GetMoveStepDistance(dir), _drawDistance);
+                UnityEngine.Debug.DrawRay(transform.position, GetMoveStepDistance(dir), Color.green);
+
+                bool safeToMove = false;
+
+                if (hit.collider != null)
+                {
+                    if (hit.collider.transform.name == "Wall" || hit.collider.transform.name == "Door" || hit.collider.transform.name == "House")
+                    {
+                        _playerState = PlayerState.Idle;
+                    }
+                    else
+                    {
+                        safeToMove = true; 
+                    }
+                }
+
+                if (safeToMove || hit.collider == null)
+                {
+                    NewDirection();
+                }
+
+                //Debug.Log("Player state = " + _playerState);
+            }
+            else if(_playerState == PlayerState.Moving)
+            {
+                Move(GetMoveStepDistance(_playerMoveDirection) + _curPosition);
+            }
+
+            if (_playerPowerUpEnabled == true)
+            {
+                _powerUpTime -= Time.deltaTime;
+                if (_powerUpTime < 0)
+                {
+                    AudioManager.Instance.StopSound(AudioManager.AudioSoundEffects.PowerPellet);
+                    _playerPowerUpEnabled = false;
                 }
             }
-
-            if (safeToMove || hit.collider == null)
-            {
-                _startTime = Time.time;
-                _fractionOfJourney = 0;
-                _curPosition = transform.position;
-
-                ChangeAnimation(_playerMoveDirection);
-
-                _playerMoveDirection = dir;
-                _journeyLength = Vector3.Distance(_curPosition, _curPosition + GetMoveStepDistance(_playerMoveDirection));
-                _playerState = PlayerState.Moving;
-            }
-
-            Debug.Log("Player state = " + _playerState);
         }
-        else if(_playerState == PlayerState.Moving)
-        {
-            MovePlayer(GetMoveStepDistance(_playerMoveDirection) + _curPosition);
-        }
+
     }
 
     // Start is called before the first frame update
@@ -95,23 +114,7 @@ public class Player : MonoBehaviour,IMovement
         _playerAnimator = GetComponent<Animator>();
         _fractionOfJourney = 1.0f;
     }
-
-    private bool CheckWallCollision()
-    {
-        UnityEngine.Debug.DrawRay(transform.position, GetMoveStepDistance(_playerMoveDirection), Color.green);
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, GetMoveStepDistance(_playerMoveDirection), _drawDistance);
-
-        if (hit.collider != null)
-        {
-            if (hit.collider.transform.name == "Wall" || 
-                hit.collider.transform.name == "Door" || 
-                hit.collider.transform.name == "House")
-            {
-                return true;
-            }
-        }
-        return false;
-    }
+    
 
     private void ChangeAnimation(Enums.MoveDirection moveDir)
     {
@@ -142,26 +145,19 @@ public class Player : MonoBehaviour,IMovement
         }
     }
 
-    public void MovePlayer(Vector3 newTargetPos)
+    public void Move(Vector3 newTargetPos)
     {
         _distCovered = (Time.time - _startTime) * _moveSpeed;
 
         // Fraction of journey completed equals current distance divided by total distance.
         _fractionOfJourney = _distCovered / _journeyLength;
 
-        /*
-        Debug.Log("Current Postion = " + _curPosition);
-        Debug.Log("newTarPos = " + newTargetPos);
-        Debug.Log("Frac = " + _fractionOfJourney);
-        */
         // Set our position as a fraction of the distance between the markers.
         transform.position = Vector3.Lerp(_curPosition, newTargetPos, _fractionOfJourney);
 
         if (_fractionOfJourney >= 1.0f)
         {
             _curPosition = transform.position;
-
-            //CheckValidMoveInput();
 
             if (Input.GetKey(KeyCode.W))
             {
@@ -198,76 +194,25 @@ public class Player : MonoBehaviour,IMovement
             }
             if (safeToMove || hit.collider == null)
             {
-                _startTime = Time.time;
-                _fractionOfJourney = 0;
-                _curPosition = transform.position;
-                _playerMoveDirection = dir;
-                ChangeAnimation(_playerMoveDirection);
-
-                _journeyLength = Vector3.Distance(_curPosition, _curPosition + GetMoveStepDistance(_playerMoveDirection));
-                _playerState = PlayerState.Moving;
+                NewDirection();
             }
         }
-
-        /*
-        float elapsedTime = 0;
-        _curPosition = transform.position;
-        _targetPosition = _curPosition + direction;
-
-        while (elapsedTime < _moveTime)
-        {
-            transform.position = Vector3.Lerp(_curPosition, _targetPosition, (elapsedTime / _moveTime));
-            elapsedTime += Time.deltaTime;
-        }
-
-        transform.position = _targetPosition;*/
     }
 
-    void CheckValidMoveInput()
+    private void NewDirection()
     {
-        //Check for input regardless of state of player, direction of input will be kept until the next direction is pressed
-        if (Input.GetKey(KeyCode.W))
-        {
-            dir = Enums.MoveDirection.Up;
-        }
-        else if (Input.GetKey(KeyCode.S))
-        {
-            dir = Enums.MoveDirection.Down;
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            dir = Enums.MoveDirection.Left;
-        }
-        else if (Input.GetKey(KeyCode.D))
-        {
-            dir = Enums.MoveDirection.Right;
-        }
+        _startTime = Time.time;
+        _fractionOfJourney = 0;
+        _curPosition = transform.position;
+        _playerMoveDirection = dir;
 
-        if (dir != Enums.MoveDirection.None)
-        {
-            UnityEngine.Debug.DrawRay(transform.position, GetMoveStepDistance(dir), Color.green);
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, GetMoveStepDistance(dir), _drawDistance);
+        ChangeAnimation(_playerMoveDirection);
 
-            if (hit.collider != null)
-            {
-                if (hit.collider.transform.name == "Wall" || 
-                    hit.collider.transform.name == "Door" || 
-                    hit.collider.transform.name == "House")
-                {
-                    //Can't move in that direction
-                }
-                else
-                {
-                    if (dir != Enums.MoveDirection.None)
-                    {
-                        _playerMoveDirection = dir;
-                    }
-                }
-            }
-        }
+        _journeyLength = Vector3.Distance(_curPosition, _curPosition + GetMoveStepDistance(_playerMoveDirection));
+        _playerState = PlayerState.Moving;
     }
 
-    Vector3 GetMoveStepDistance(Enums.MoveDirection direction)
+    public Vector3 GetMoveStepDistance(Enums.MoveDirection direction)
     {
         Vector3 dir = Vector3.zero;
 
@@ -291,5 +236,22 @@ public class Player : MonoBehaviour,IMovement
         }
 
         return dir;
+    }
+
+    public void ResetPlayer()
+    {
+        _powerUpTime = 0;
+        _playerPowerUpEnabled = false;
+        transform.position = new Vector3(1.5f, -1.5f, 0);
+        _playerState = PlayerState.Idle;
+        _playerAnimator.SetBool("Moving", false);
+        _playerAnimator.SetBool("Dead", false);
+    }
+
+    public void PowerUpPlayer(float powerUpTime)
+    {
+        _playerPowerUpEnabled = true;
+        _powerUpTime = powerUpTime;
+        AudioManager.Instance.PlaySound(AudioManager.AudioSoundEffects.PowerPellet, true);
     }
 }

@@ -9,9 +9,18 @@ public class Obstacle : MonoBehaviour
         Wall,
         Door,
         House,
-        PowerUp
-
+        PowerUp,
+        Start
     }
 
-    public Block GameObstacle = Block.Wall;
+    [SerializeField]private Block _gameObstacle = Block.Wall;
+
+    public Block GameObstacle
+    {
+        get
+        {
+            return _gameObstacle;
+        }
+    }
+
 }
